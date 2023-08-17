@@ -1,7 +1,7 @@
 {
   "name": "js-train",
   "version": "1.0.0",
-  "description": "",
+  "description": "js training",
   "main": "index.js",
   "type": "module",
   "scripts": {
